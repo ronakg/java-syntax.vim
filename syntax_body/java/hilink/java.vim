@@ -8,7 +8,7 @@ hi def link javaNumber          Number
 hi def link javaBoolean         Boolean
 hi def link javaFloat           Float
 "-------------------------------------------------
-hi def link javaIdentifier      Identifier
+"hi def link javaIdentifier      Identifier
 hi def link javaFunction        Function
 "-------------------------------------------------
 hi def link javaStatement       Statement
